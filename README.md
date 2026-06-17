@@ -1,7 +1,9 @@
 # MainCrafts Website
 
 A clean, responsive multi-page portfolio website for MainCrafts Technology. This project demonstrates modern HTML, CSS, and JavaScript for a small business landing site with a contact form, local submission storage, and theme toggling.
-LIVE DEMO:eclectic-cannoli-924fb1.netlify.app
+
+link:eclectic-cannoli-924fb1.netlify.app
+
 ## Features
 
 - Responsive multi-page layout: Home, About, Contact, and Submissions.
